@@ -11,7 +11,7 @@ HashWatch is a Python-based tool to monitor file system changes by creating base
 
 Here’s how HashWatch looks in action:
 
-![HashWatch GUI](asset/Screenshot-1(1).png)
+![HashWatch GUI](asset/Screenshot-1.png)
 
 ![HashWatch GUI](asset/Screenshot-2.png)
 
