@@ -67,4 +67,5 @@ if __name__ == "__main__":
     folder = input("Enter folder to scan: ")
     hashes = scan_directory(folder)
     save_hashes(hashes)
-    print(f"Hashes saved for {len(hashes)} files at {datetime.now()}")
+    print("Baseline created. Run again to verify changes.")
+
